@@ -1,0 +1,19 @@
+v 1.0
+1. Should be able to see the other user's water consumed level. 
+2. Should be able to see user's water currently consumed. 
+3. Should be able to update the user's water quantity. 
+4. Can create a group where user's water quantity level will be notified ( PUSH notification)
+5. Should be able to add users
+
+  UI:
+   1. Only one button -> 1 small text -> 1
+
+  	
+
+v 2.0
+1. Intake of Junk foods and calculate calories automatically based on food. 
+2. Food -> Quantity - > Calculate calories 
+3. 
+
+
+
